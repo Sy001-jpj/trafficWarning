@@ -1,0 +1,13 @@
+[31mfailed to load config from D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\vite.config.js[39m
+[31merror when starting dev server:
+Error: spawn EPERM
+    at ChildProcess.spawn (node:internal/child_process:420:11)
+    at Object.spawn (node:child_process:787:9)
+    at ensureServiceIsRunning (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\esbuild\lib\main.js:1978:29)
+    at build (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\esbuild\lib\main.js:1876:26)
+    at bundleConfigFile (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite/dist/node/chunks/config.js:36455:23)
+    at bundleAndLoadConfigFile (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite/dist/node/chunks/config.js:36442:24)
+    at loadConfigFromFile (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite/dist/node/chunks/config.js:36411:179)
+    at resolveConfig (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite/dist/node/chunks/config.js:36060:28)
+    at _createServer (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite/dist/node/chunks/config.js:26008:73)
+    at createServer$2 (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite/dist/node/chunks/config.js:26005:9)[39m

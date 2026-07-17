@@ -1,0 +1,340 @@
+[2m16:23:46[22m [31m[1m[vite][22m[39m [31mInternal server error: Element is missing end tag.[39m
+  Plugin: [35mvite-plugin-vue-inspector[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/Dashboard.vue[39m
+      at createCompilerError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1364:17)
+      at emitError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2997:5)
+      at Object.onclosetag (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2364:13)
+      at Tokenizer.stateInClosingTagName (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:785:16)
+      at Tokenizer.parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1143:16)
+      at Object.baseParse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:13)
+      at parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:910:23)
+      at result (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite-plugin-vue-inspector/dist/index.mjs:29:21)
+      at new Promise (<anonymous>)
+      at compileSFCTemplate (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite-plugin-vue-inspector/dist/index.mjs:26:24)
+[2m16:24:36[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Element is missing end tag.
+  Plugin: [35mvite-plugin-vue-inspector[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/Dashboard.vue[39m
+[2m16:25:34[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Element is missing end tag.
+  Plugin: [35mvite-plugin-vue-inspector[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/Dashboard.vue[39m
+[2m16:25:35[22m [31m[1m[vite][22m[39m [31mInternal server error: Element is missing end tag.[39m
+  Plugin: [35mvite-plugin-vue-inspector[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/Dashboard.vue[39m
+      at createCompilerError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1364:17)
+      at emitError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2997:5)
+      at Object.onclosetag (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2364:13)
+      at Tokenizer.stateInClosingTagName (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:785:16)
+      at Tokenizer.parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1143:16)
+      at Object.baseParse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:13)
+      at parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:910:23)
+      at result (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite-plugin-vue-inspector/dist/index.mjs:29:21)
+      at new Promise (<anonymous>)
+      at compileSFCTemplate (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite-plugin-vue-inspector/dist/index.mjs:26:24)
+[2m16:25:39[22m [31m[1m[vite][22m[39m [31mInternal server error: Element is missing end tag.[39m
+  Plugin: [35mvite-plugin-vue-inspector[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/Dashboard.vue[39m
+      at createCompilerError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1364:17)
+      at emitError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2997:5)
+      at Object.onclosetag (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2364:13)
+      at Tokenizer.stateInClosingTagName (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:785:16)
+      at Tokenizer.parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1143:16)
+      at Object.baseParse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:13)
+      at parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:910:23)
+      at result (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite-plugin-vue-inspector/dist/index.mjs:29:21)
+      at new Promise (<anonymous>)
+      at compileSFCTemplate (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite-plugin-vue-inspector/dist/index.mjs:26:24)
+[2m16:22:51[22m [31m[1m[vite][22m[39m [31mInternal server error: Error parsing JavaScript expression: Unexpected token, expected "," (3:18)[39m
+      at createCompilerError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1364:17)
+      at emitError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2997:5)
+      at createExp (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2990:7)
+      at Object.onattribend (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2515:29)
+      at Tokenizer.handleInAttrValue (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:945:16)
+      at Tokenizer.stateInAttrValueDoubleQuotes (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:955:10)
+      at Tokenizer.parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1099:16)
+      at Object.baseParse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:13)
+      at Object.parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:910:23)
+      at Object.parse$1 [as parse] (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-sfc\dist\compiler-sfc.cjs.js:1801:24)
+[2m16:22:51[22m [31m[1m[vite][22m[39m [31mInternal server error: Error parsing JavaScript expression: Unexpected token, expected "," (3:18)[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/CongestionRecognition.vue[39m:589:25
+[33m  588 |                  type="button"
+  589 |                  @click="
+  590 |                    citySearchQuery = ''
+      |  ^
+  591 |                    citySuggestions = []
+  592 |                    cityDropdownVisible = false[39m
+      at createCompilerError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1364:17)
+      at emitError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2997:5)
+      at createExp (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2990:7)
+      at Object.onattribend (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2515:29)
+      at Tokenizer.handleInAttrValue (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:945:16)
+      at Tokenizer.stateInAttrValueDoubleQuotes (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:955:10)
+      at Tokenizer.parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1099:16)
+      at Object.baseParse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:13)
+      at Object.parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:910:23)
+      at Object.parse$1 [as parse] (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-sfc\dist\compiler-sfc.cjs.js:1801:24)
+[2m16:23:08[22m [31m[1m[vite][22m[39m [31mInternal server error: Error parsing JavaScript expression: Unexpected token, expected "," (3:18)[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/CongestionRecognition.vue[39m:589:25
+[33m  588 |                  type="button"
+  589 |                  @click="
+  590 |                    citySearchQuery = ''
+      |  ^
+  591 |                    citySuggestions = []
+  592 |                    cityDropdownVisible = false[39m
+      at createCompilerError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1364:17)
+      at emitError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2997:5)
+      at createExp (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2990:7)
+      at Object.onattribend (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2515:29)
+      at Tokenizer.handleInAttrValue (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:945:16)
+      at Tokenizer.stateInAttrValueDoubleQuotes (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:955:10)
+      at Tokenizer.parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1099:16)
+      at Object.baseParse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:13)
+      at Object.parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:910:23)
+      at Object.parse$1 [as parse] (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-sfc\dist\compiler-sfc.cjs.js:1801:24)
+[2m16:24:25[22m [31m[1m[vite][22m[39m [31mInternal server error: Error parsing JavaScript expression: Unexpected token, expected "," (3:18)[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/CongestionRecognition.vue[39m:595:25
+[33m  594 |                  type="button"
+  595 |                  @click="
+  596 |                    citySearchQuery = ''
+      |  ^
+  597 |                    citySuggestions = []
+  598 |                    cityDropdownVisible = false[39m
+      at createCompilerError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1364:17)
+      at emitError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2997:5)
+      at createExp (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2990:7)
+      at Object.onattribend (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2515:29)
+      at Tokenizer.handleInAttrValue (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:945:16)
+      at Tokenizer.stateInAttrValueDoubleQuotes (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:955:10)
+      at Tokenizer.parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1099:16)
+      at Object.baseParse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:13)
+      at Object.parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:910:23)
+      at Object.parse$1 [as parse] (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-sfc\dist\compiler-sfc.cjs.js:1801:24)
+[2m17:50:51[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+366|                <span data-v-inspector="src/components/AiAssistant.vue:366:15">{{ conv.createdAt }}</span>
+367|              </div>
+368|              <button
+   |              ^^^^^^^
+369|                class="history-delete"
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+370|                type="button"
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+371|                title="删除"
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^
+372|                @click.stop="deleteConversation(conv.id)" data-v-inspector="src/components/AiAssistant.vue:368:13"
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+373|              >
+   |  ^^^^^^^^^^^^^
+374|                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:374:15">
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+375|                  <polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:375:17"/>
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+376|                  <path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:376:17"/>
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+377|                </svg>
+   |  ^^^^^^^^^^^^^^^^^^^^
+378|              </button>
+   |  ^^^^^^^^^^^^^^^^^^^^^[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m17:53:02[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+366|                <span data-v-inspector="src/components/AiAssistant.vue:366:15">{{ conv.createdAt }}</span>
+367|              </div>
+368|              <button
+   |              ^^^^^^^
+369|                class="history-delete"
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+370|                type="button"
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+371|                title="删除"
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^
+372|                @click.stop="deleteConversation(conv.id)" data-v-inspector="src/components/AiAssistant.vue:368:13"
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+373|              >
+   |  ^^^^^^^^^^^^^
+374|                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:374:15">
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+375|                  <polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:375:17"/>
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+376|                  <path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:376:17"/>
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+377|                </svg>
+   |  ^^^^^^^^^^^^^^^^^^^^
+378|              </button>
+   |  ^^^^^^^^^^^^^^^^^^^^^[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m17:53:39[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m17:54:24[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m17:56:14[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m17:56:31[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m17:56:38[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m17:56:46[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m17:58:36[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m17:58:46[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m17:58:53[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m17:59:00[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m18:11:44[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m18:55:58[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m19:04:59[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m19:12:27[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m19:36:18[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m20:20:52[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: <button> cannot be child of <button>, according to HTML specifications. This can cause hydration errors or potentially disrupt future functionality.
+154|              <span class="hd-title" data-v-inspector="src/components/AiAssistant.vue:154:13">{{ c.title }}</span>
+155|              <span class="hd-time" data-v-inspector="src/components/AiAssistant.vue:155:13">{{ c.createdAt }}</span>
+156|              <button class="hd-del" @click.stop="deleteConversation(c.id)" data-v-inspector="src/components/AiAssistant.vue:156:13"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" data-v-inspector="src/components/AiAssistant.vue:156:75"><polyline points="3 6 5 6 21 6" data-v-inspector="src/components/AiAssistant.vue:156:174"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" data-v-inspector="src/components/AiAssistant.vue:156:207"/></svg></button>
+   |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+157|            </button>
+158|          </div>[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/AiAssistant.vue[39m
+[2m20:48:41[22m [31m[1m[vite][22m[39m [31mInternal server error: Element is missing end tag.[39m
+  Plugin: [35mvite-plugin-vue-inspector[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/Dashboard.vue[39m
+      at createCompilerError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1364:17)
+      at emitError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2997:5)
+      at Object.onclosetag (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2364:13)
+      at Tokenizer.stateInClosingTagName (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:785:16)
+      at Tokenizer.parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1143:16)
+      at Object.baseParse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:13)
+      at parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:910:23)
+      at result (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite-plugin-vue-inspector/dist/index.mjs:29:21)
+      at new Promise (<anonymous>)
+      at compileSFCTemplate (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite-plugin-vue-inspector/dist/index.mjs:26:24)
+[2m20:49:26[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Element is missing end tag.
+  Plugin: [35mvite-plugin-vue-inspector[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/Dashboard.vue[39m
+[2m20:49:27[22m [31m[1m[vite][22m[39m [31mInternal server error: Element is missing end tag.[39m
+  Plugin: [35mvite-plugin-vue-inspector[39m
+  File: [36mD:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/src/components/Dashboard.vue[39m
+      at createCompilerError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1364:17)
+      at emitError (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2997:5)
+      at Object.onclosetag (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2364:13)
+      at Tokenizer.stateInClosingTagName (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:785:16)
+      at Tokenizer.parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1143:16)
+      at Object.baseParse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:13)
+      at parse (D:\Desktop\experience2\experiences2\traffic-warning-system\traffic-warning-system\traffic-warning-frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:910:23)
+      at result (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite-plugin-vue-inspector/dist/index.mjs:29:21)
+      at new Promise (<anonymous>)
+      at compileSFCTemplate (file:///D:/Desktop/experience2/experiences2/traffic-warning-system/traffic-warning-system/traffic-warning-frontend/node_modules/vite-plugin-vue-inspector/dist/index.mjs:26:24)
