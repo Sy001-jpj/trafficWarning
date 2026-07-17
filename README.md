@@ -4,6 +4,7 @@
 本项目目前以前端演示为主，使用静态示例数据和浏览器 `localStorage` 保存部分用户数据，适合课程设计、前端项目展示、系统原型演示以及后续对接后端接口继续扩展。
 
 数据集下载链接：
+https://www.kaggle.com/datasets/sylviestandta/trafficwarning
 
 ## 项目特点
 
