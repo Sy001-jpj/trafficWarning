@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: traffic-warning-backend
+  datasource:
+    url: jdbc:mysql://localhost:3306/traffic_warning_system?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai&useSSL=false&allowPublicKeyRetrieval=true
+    username: root
+    password: "123456"
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+traffic-warning:
+  ai-service-url: http://localhost:8000
+  amap-key: 728eff9c01231dd53c92c1755636d657
+  amap-rectangle: 118.7800,32.0400;118.8500,32.1000
