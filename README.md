@@ -185,24 +185,37 @@ npm -v
 ```sh
 cd traffic-warning-system
 ```
-
+1.前端
 安装依赖：
-
 ```sh
 npm install
 ```
-
 启动开发服务器：
-
 ```sh
 npm run dev
 ```
-
 启动成功后，浏览器访问终端显示的本地地址，通常为：
-
 ```text
 http://localhost:5173/
 ```
+
+2.后端
+ cd traffic-warning-backend
+  mvn spring-boot:run
+
+3.AI推理服务端
+ cd traffic-warning-ai
+  python -m venv venv
+  venv\Scripts\activate      # Windows
+  pip install -r requirements.txt
+  uvicorn app.main:app --host 0.0.0.0 --port 8000
+
+  4。算法端：
+  cd algorithm
+  python -m venv venv
+  venv\Scripts\activate      # Windows
+  pip install -r requirements.txt
+  python detect.py
 
 ## 打包与预览
 
@@ -217,6 +230,9 @@ npm run build
 ```sh
 npm run preview
 ```
+
+依赖库：
+
 
 ## 演示账号
 
