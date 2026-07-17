@@ -1,0 +1,32 @@
+# 依赖
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# 构建产物
+dist/
+dist-ssr/
+target/
+
+# 环境变量
+.env
+.env.*
+
+# 日志
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.iml
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 测试
+coverage/
+.pytest_cache/
